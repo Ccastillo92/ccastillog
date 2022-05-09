@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences &amp; Talks | César Castillo-García</title>
+    <link>https://example.com/event/</link>
+      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conferences &amp; Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Conferences &amp; Talks</title>
+      <link>https://example.com/event/</link>
+    </image>
+    
+    <item>
+      <title>Waves of Neoliberalism. Revisiting the Authoritarian Capitalism in South America.</title>
+      <link>https://example.com/talk/waves-of-neoliberalism.-revisiting-the-authoritarian-capitalism-in-south-america./</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/waves-of-neoliberalism.-revisiting-the-authoritarian-capitalism-in-south-america./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factor Income Shares and Capital Accumulation in Peru, 1940-2019</title>
+      <link>https://example.com/talk/factor-income-shares-and-capital-accumulation-in-peru-1940-2019/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/factor-income-shares-and-capital-accumulation-in-peru-1940-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factor Income Distribution and Capital Accumulation in Peru, 1940-2019</title>
+      <link>https://example.com/talk/factor-income-distribution-and-capital-accumulation-in-peru-1940-2019/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/factor-income-distribution-and-capital-accumulation-in-peru-1940-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Income Distribution in a Peripheral Economy. Peru, 2004-2019</title>
+      <link>https://example.com/talk/personal-income-distribution-in-a-peripheral-economy.-peru-2004-2019/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/personal-income-distribution-in-a-peripheral-economy.-peru-2004-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Birth of Neoliberalism in South America. Pedro G. Beltrán, Rómulo Ferrero and the Conservative Economic Development in Peru</title>
+      <link>https://example.com/talk/revisiting-the-birth-of-neoliberalism-in-south-america.-pedro-g.-beltran-romulo-ferrero-and-the-conservative-economic-development-in-peru/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/revisiting-the-birth-of-neoliberalism-in-south-america.-pedro-g.-beltran-romulo-ferrero-and-the-conservative-economic-development-in-peru/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

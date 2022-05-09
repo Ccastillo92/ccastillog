@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peru | César Castillo-García</title>
+    <link>https://example.com/tag/peru/</link>
+      <atom:link href="https://example.com/tag/peru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peru</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Peru</title>
+      <link>https://example.com/tag/peru/</link>
+    </image>
+    
+    <item>
+      <title>Factor Income Distribution and Capital Accumulation in Peru, 1940-2019</title>
+      <link>https://example.com/publication/example/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/example/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How the Left Took Power in Peru</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;p&gt;&amp;lsquo;&lt;a href=&#34;https://publicseminar.org/essays/how-the-left-took-power-in-peru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Castillo imagines a new politics&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Redistribución en tiempos de pandemia</title>
+      <link>https://example.com/post/getting-started-copy/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started-copy/</guid>
+      <description>&lt;p&gt;&amp;lsquo;&lt;a href=&#34;https://otramirada.pe/redistribuci%C3%B3nen-tiempos-de-pandemia-pertinencia-de-un-impuesto-solidario-la-riqueza&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Pertinencia de un impuesto solidario (a la riqueza)&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

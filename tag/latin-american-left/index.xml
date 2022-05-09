@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latin American Left | César Castillo-García</title>
+    <link>https://example.com/tag/latin-american-left/</link>
+      <atom:link href="https://example.com/tag/latin-american-left/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latin American Left</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Latin American Left</title>
+      <link>https://example.com/tag/latin-american-left/</link>
+    </image>
+    
+    <item>
+      <title>How the Left Took Power in Peru</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;p&gt;&amp;lsquo;&lt;a href=&#34;https://publicseminar.org/essays/how-the-left-took-power-in-peru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Castillo imagines a new politics&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

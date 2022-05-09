@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | César Castillo-García</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Waves of Neoliberalism. Revisiting the Authoritarian Capitalism in South America (1940-1990)</title>
+      <link>https://example.com/project/example/index2/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/index2/</guid>
+      <description>&lt;p&gt;This research reconstructs the historical development of neoliberalism in Peru throughout its different waves. The document dates back much before the so-called application of Washington Consensus policies of the latter 1970s and Fujimori’s coup d’état. In this regard, I challenge a standard historical narrative that states neoliberalism is an outcome of the transfer of ideas as in the case of the Chilean Chicago-Boys or their other Latin American counterparts. In the same way, the paper emphasizes the relevance of academic and political connections between national actors and main neoliberal networks: Walter Lippmann Colloquium (WLC) and the Mont Pèlerin Society (MPS) meetings.&lt;/p&gt;
+&lt;p&gt;The Peruvian case was an ideological precursor of the South American neoliberal authoritarianism before the 1950s. It also constituted an opening episode of the deep transnational connection between the MPS and Latin American economic experts, who played a role in influencing public opinion through political relations and media outlets and directly devising economic policies. In different historical waves, neoliberals have implemented the entanglement of institutions and discourse by constructing and modifying socio-economic relations in the real political economy. They create institutions and fix what the public identifies as the “economy” and “good economic policies.” Hence, their influence left institutional legacies, affecting the common understanding of fiscal and monetary policies, the role of the State, development policies, and the legislation regarding businesses and private investment.&lt;/p&gt;
+&lt;p&gt;The first wave shows the public appearances of the French neoliberal Louis Baudin (WLC and MPS) in Peru. Throughout his book L’Empire socialiste des Inkas (1928), Baudin contributes to the critique of socialism and collectivism in the Peruvian debate and introduces the term neoliberalism in his conferences of 1947 in Lima.This was the time of foreign exchange controls in Peru. In the second wave, the economists Pedro G. Beltrán and Rómulo Ferrero (first member of MPS) appear in designing free-market policies implemented during Manuel Odría’s dictatorship of the 1950s. I emphasize their relationship with figures as Ludwig von Mises, Henry Hazlitt, Wilhelm Röpke, and Fritz Machlup. Those Peruvian economists implemented developmental policies during the conservative government of Prado Ugarteche (1955-1961). While Beltrán succeeded in bringing Kennedy’s Alliance for the Progress to countervail the advance of Castroism in South America, Ferrero acted as a pundit and technocrat in favor of austerity and deflationary policies for development.&lt;/p&gt;
+&lt;p&gt;Following these experiences, two neoliberal institutions appeared in the 1960s: the Centro de Documentación Económico-Social (lead by the MPS member Jacobo Rey and La Prensa journalists mentored by Beltrán) and Acción para el Desarrollo (integrated by technocrats, managers, and economists who published in Expreso). I briefly explore how these 1960s neoliberals publicly supported Morales-Bermúdez’s conservative economic reforms of the latter 1970s. In the last wave, I show 1960s neoliberals participated in the foundation of Hernando de Soto’s Instituto Libertad y Democracia and supported the Peruvian economic constitution of 1979 following social market economy principles. They also joined Mario Vargas Llosa’s Movimiento Libertad (1988-1999) and played a crucial role in the institutional design of Fujimori’s economic constitution, which prevails until now.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Classical Macrodynamics and Real Competition in Latin America, 1980-2020</title>
+      <link>https://example.com/project/example/index1/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/index1/</guid>
+      <description>&lt;p&gt;This project centers on two main research questions: (1) how is it possible to explain the behavior of the aggregate rate of profit during the neoliberal era? and (2) how did these changes affect the long-run performance of the Latin American economies from 1980 until 2020? Thus, rather than adopting a mainstream approach that lacks a historical and
+class understanding, this research project provides an alternative systemic interpretation of the economic and political aspects of Latin America during the neoliberal era. In this regard, two principal outcomes are expected to arise: (1) an alternative approach to understand the dynamism of Latin America’s socioeconomic scenario for the past forty years through the evaluation of the behavior of the aggregate rate of profit and the economic policies that have been implemented in this region. On the other hand, (2) this project presents the first application of real competition theory to a comparison of Latin American countries.&lt;/p&gt;
+&lt;p&gt;We follow the real competition framework developed by Anwar Shaikh&amp;rsquo;s Capitalism: Competition, Conflict, Crises (2016). That perspective contemplates the competition of capitalism as a global system, instead of considering economic policies for each country in an isolated manner. For example, increasing real wage in an abstract economy could contribute to the improvement labor income. Yet, the same policy could reduce competitiveness, decrease the
+profit and accumulation rates and increase unemployment if we look at open economies. Furthermore, we aim to historicize the neoliberal operations applied to attract investment in open Latin American economies since the 1980s. This implies that capitalism’s dynamics must be studied from a holistic perspective.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
